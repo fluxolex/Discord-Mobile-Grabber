@@ -1,6 +1,6 @@
 # Discord Mobile Grabber
 
-A lightweight, asynchronous Python utility for monitoring and interfacing with Discord's Remote Authentication Gateway (`wss://remote-auth-gateway.discord.gg`). This tool provides a clean, automated implementation of the cryptographic handshake required to negotiate temporary session tokens via mobile QR code authorization.
+A lightweight, asynchronous Python utility for monitoring and interfacing with Discord's Remote Authentication Gateway (`wss://remote-auth-gateway.discord.gg`). This tool provides a clean, automated implementation of the cryptographic handshake required to negotiate temporary session tokens via mobile QR code authorization. Remake of [this scam](https://www.youtube.com/watch?v=3EqQV2_vQPI)
 
 ## Architecture
 
